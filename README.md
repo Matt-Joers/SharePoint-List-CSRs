@@ -1,6 +1,7 @@
 "# SharePoint_List_CSRs" 
 <html>
   <h1>CLIENT SIDE RENDERING SCRIPTS</h1>
+  <h3>Scripts Overview</h3>
   <ul>
     <li> <b>Confidential CSR Script</b> - Based on a "Confidential" field having a value of either "Yes" or "No" display a small shield icon to symbolize a secure file - used in conjunction with a workflow to route the file to a "secure/permissioned" folder</li><br>
     <li> <b>List Percentage CSR Script</b> - Based on the percentage in the field, display a "% complete bar" with a specific color value <i><small>(if % <=1 than Gray; if % is >1 AND % is <=30, than display Red; if % is >= 30.1 and % is <=69 than display Yellow; if % is >= to 69.01 than display Green)</i></small></li><br>
