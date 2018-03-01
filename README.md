@@ -3,7 +3,7 @@
   <h1>CLIENT SIDE RENDERING SCRIPTS</h1>
   <ul>
     <li> Confidential CSR Script - Based on a "Confidential" field's equaling either "Yes" or "No" display a small shield icon to symbolize a secure file</li>
-    <li> List Percentage CSR Script - Based on the percentage in the field, display a "% complete bar" with a specific color value <i>(if % <=1 than Gray; if % is >1 AND % is <=30, than display Red; if % is >= 30.1 and % is <=69 than display Yellow; if % is >= to 69.01 than display Green)</i></li>
+    <li> List Percentage CSR Script - Based on the percentage in the field, display a "% complete bar" with a specific color value <i><small>(if % <=1 than Gray; if % is >1 AND % is <=30, than display Red; if % is >= 30.1 and % is <=69 than display Yellow; if % is >= to 69.01 than display Green)</i></small></li>
       <li>Row Color CSR Script - Depending on the status of a field, specify a color for that record's row</li>
   </ul>
   <h3>CSR Script Use Instructions</h3>
